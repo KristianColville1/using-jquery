@@ -93,7 +93,7 @@ lead.textContent;
 
 // Very flexible way of finding elements in the DOM. Returns first element found
 var article = document.querySelector('#home-page');
-var section = document.querySelector('section');
+var section2 = document.querySelector('section');
 var lead = document.querySelector('.lead');
 
 // Can get all matched results. This returns a list
